@@ -5,9 +5,10 @@ Ultra-High Win Rate XAUUSD Trading Bot Configuration
 
 class TradingConfig:
     # === MT5 Connection ===
-    MT5_LOGIN = YOUR_LOGIN
-    MT5_PASSWORD = "YOUR_PASSWORD"
-    MT5_SERVER = "YOUR_SERVER"
+    MT5_LOGIN=98462975
+    MT5_PASSWORD="@3VsItUl"
+    MT5_SERVER="MetaQuotes-Demo"
+    NEWS_API_KEY="3adc7e63c39941738b35d9b655af8b31"
     
     # === Symbol Settings ===
     SYMBOL = "XAUUSD"
