@@ -16,7 +16,13 @@
 ## 📋 Installation
 
 ```bash
+# Clone repository
+git clone https://github.com/YOUR_USERNAME/gold-ai-sonnet-4.5
+cd gold-ai-sonnet-4.5
+
+# Install dependencies
 pip install -r requirements.txt
+
 ```
 
 ## ⚙️ Configuration
