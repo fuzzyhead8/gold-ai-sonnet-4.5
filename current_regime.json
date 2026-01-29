@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-11-14T18:12:21.503355",
+  "regime": "NEUTRAL",
+  "confidence": 50,
+  "trend_score": 65.0,
+  "direction": "UP",
+  "recommended_bot": "GRID_BOT",
+  "details": {
+    "adx": {
+      "method": "ADX",
+      "score": 100,
+      "adx_value": 59.778480295633024,
+      "direction": "UP",
+      "trending": true
+    },
+    "ma_slope": {
+      "method": "MA_Slope",
+      "score": 60,
+      "slope_20": 0.5090977443608856,
+      "slope_50": -2.8573085234093507,
+      "direction": "UP",
+      "trending": true
+    },
+    "volatility": {
+      "method": "ATR_Volatility",
+      "score": 50,
+      "atr_current": 17.22214285714293,
+      "atr_average": 12.375899999999994,
+      "volatility_ratio": 1.3915871053533835,
+      "state": "ELEVATED"
+    },
+    "bollinger": {
+      "method": "Bollinger_Bands",
+      "score": 70,
+      "bandwidth": 2.187630586011907,
+      "avg_bandwidth": 1.9153411068349906,
+      "state": "EXPANDING",
+      "ranging": false
+    },
+    "price_action": {
+      "method": "Price_Action",
+      "score": 30,
+      "pattern": "RANGING",
+      "trending": false
+    }
+  }
+}
